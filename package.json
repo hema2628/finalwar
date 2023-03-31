@@ -1,0 +1,17 @@
+{
+    "name": "haydengametest",
+    "version": "main",
+    "description": "Hayden Game Test",
+    "repository": "https://gitlab.sige.la/haydenma/gametest.git",
+    "author": "HaydenMa",
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^3.5.0",
+        "@typescript-eslint/parser": "^3.5.0",
+        "eslint": "^7.3.0",
+        "eslint-config-prettier": "^6.7.0",
+        "eslint-plugin-compat": "^3.3.0",
+        "eslint-plugin-prettier": "^3.1.0",
+        "prettier": "^2.0.5",
+        "typescript": "^3.6.0"
+    }
+}

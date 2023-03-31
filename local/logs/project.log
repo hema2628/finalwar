@@ -1,0 +1,102 @@
+2023-03-31T05:54:01.482Z - success: protocol editor-framework registered
+2023-03-31T05:54:01.482Z - success: protocol app registered
+2023-03-31T05:54:01.482Z - success: protocol theme registered
+2023-03-31T05:54:01.482Z - success: protocol packages registered
+2023-03-31T05:54:01.489Z - normal: Load ~/.CocosCreator/settings.json
+2023-03-31T05:54:01.498Z - success: protocol uuid registerred
+2023-03-31T05:54:01.498Z - success: protocol db registerred
+2023-03-31T05:54:01.498Z - success: protocol thumbnail registerred
+2023-03-31T05:54:01.531Z - normal: Initializing Asset Database
+2023-03-31T05:54:01.533Z - normal: checking language setting...
+2023-03-31T05:54:01.533Z - normal: Language: zh
+2023-03-31T05:54:01.534Z - success: protocol unpack registerred
+2023-03-31T05:54:01.534Z - success: protocol disable-commonjs registerred
+2023-03-31T05:54:02.459Z - normal: connected!
+2023-03-31T05:54:03.235Z - normal: Check project /Users/growild/Desktop/NewProject
+2023-03-31T05:54:03.236Z - normal: Initializing project /Users/growild/Desktop/NewProject
+2023-03-31T05:54:03.347Z - success: adapters loaded
+2023-03-31T05:54:03.348Z - success: asset-db-debugger loaded
+2023-03-31T05:54:03.376Z - success: fb-audience-network loaded
+2023-03-31T05:54:03.392Z - success: fb-live-stream loaded
+2023-03-31T05:54:03.394Z - success: google-play-instant loaded
+2023-03-31T05:54:03.394Z - success: jsb-adapter loaded
+2023-03-31T05:54:03.396Z - success: package-manager loaded
+2023-03-31T05:54:03.396Z - success: runtime-adapters loaded
+2023-03-31T05:54:03.397Z - success: runtime-dev-tools loaded
+2023-03-31T05:54:03.399Z - success: ui-kit-preview-extra loaded
+2023-03-31T05:54:03.400Z - success: ui-kit-preview loaded
+2023-03-31T05:54:03.715Z - success: alipay-minigame loaded
+2023-03-31T05:54:03.720Z - success: assets loaded
+2023-03-31T05:54:03.721Z - success: baidugame-opendata loaded
+2023-03-31T05:54:03.722Z - success: baidugame loaded
+2023-03-31T05:54:03.723Z - success: builder loaded
+2023-03-31T05:54:03.724Z - success: bytedance-opendata loaded
+2023-03-31T05:54:03.725Z - success: bytedance loaded
+2023-03-31T05:54:03.727Z - success: channel-upload-tools loaded
+2023-03-31T05:54:03.784Z - success: cloud-function loaded
+2023-03-31T05:54:03.866Z - success: cocos-services loaded
+2023-03-31T05:54:03.868Z - success: console loaded
+2023-03-31T05:54:03.869Z - success: curve-editor loaded
+2023-03-31T05:54:03.874Z - success: fb-instant-games loaded
+2023-03-31T05:54:03.875Z - success: game-window loaded
+2023-03-31T05:54:03.876Z - success: google-instant-games loaded
+2023-03-31T05:54:03.878Z - success: hierarchy loaded
+2023-03-31T05:54:03.879Z - success: huawei-agc loaded
+2023-03-31T05:54:03.880Z - success: huawei-runtime loaded
+2023-03-31T05:54:03.882Z - success: inspector loaded
+2023-03-31T05:54:03.889Z - success: cpk-publish loaded
+2023-03-31T05:54:03.889Z - success: keystore loaded
+2023-03-31T05:54:03.898Z - success: link-sure-runtime loaded
+2023-03-31T05:54:03.903Z - success: node-library loaded
+2023-03-31T05:54:03.903Z - success: open-recent-items loaded
+2023-03-31T05:54:03.905Z - success: oppo-runtime loaded
+2023-03-31T05:54:03.906Z - success: package-asset loaded
+2023-03-31T05:54:03.906Z - success: preferences loaded
+2023-03-31T05:54:03.908Z - success: project-importer loaded
+2023-03-31T05:54:03.909Z - success: project-settings loaded
+2023-03-31T05:54:03.916Z - success: qtt-runtime loaded
+2023-03-31T05:54:03.917Z - success: scene loaded
+2023-03-31T05:54:03.918Z - success: simulator-debugger loaded
+2023-03-31T05:54:03.918Z - success: sprite-editor loaded
+2023-03-31T05:54:03.945Z - success: store loaded
+2023-03-31T05:54:03.948Z - success: taobao-creativeapp loaded
+2023-03-31T05:54:03.950Z - success: timeline loaded
+2023-03-31T05:54:03.952Z - success: vivo-runtime loaded
+2023-03-31T05:54:03.954Z - success: wechatgame-opendata loaded
+2023-03-31T05:54:03.956Z - success: wechatgame loaded
+2023-03-31T05:54:03.958Z - success: xiaomi-runtime loaded
+2023-03-31T05:54:03.993Z - success: im-plugin loaded
+2023-03-31T05:54:03.993Z - success: preview server running at http://localhost:7456
+2023-03-31T05:54:04.404Z - normal: Initializing Cocos2d
+2023-03-31T05:54:04.546Z - normal: Initializing engine extends
+2023-03-31T05:54:04.951Z - normal: Loading packages
+2023-03-31T05:54:04.953Z - normal: Watching packages
+2023-03-31T05:54:05.032Z - normal: Run Application
+2023-03-31T05:54:07.015Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T05:54:07.067Z - warn: Script attached to "Canvas" is missing or invalid. Detailed information:
+Node path: "Canvas"
+Script UUID: "e1b90feb-a217-4493-849d-9a611900d683"
+Class ID: "e1b90/rohdEk4SdmmEZANaD"
+
+2023-03-31T05:54:07.414Z - success: cloud-function unloaded
+2023-03-31T05:54:09.371Z - info: Cocos Service load base data!
+2023-03-31T05:56:43.194Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T06:10:38.400Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T06:17:10.491Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T06:25:32.043Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T06:26:49.163Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T06:35:32.965Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T06:36:31.216Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:01:23.837Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:02:07.558Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:03:50.290Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:04:32.926Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:08:57.831Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:12:17.197Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:12:56.203Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:15:31.724Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:16:26.933Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:16:47.413Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:18:21.421Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:21:27.862Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
+2023-03-31T07:26:06.944Z - normal: No need to specify the "type" of "joyStick.direction" because cc.Vec2 is a child class of ValueType.
